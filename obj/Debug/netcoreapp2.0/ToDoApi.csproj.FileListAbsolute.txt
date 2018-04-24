@@ -1,0 +1,11 @@
+C:\Users\ehala\Source\Repos\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.0\ToDoApi.deps.json
+C:\Users\ehala\Source\Repos\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.0\ToDoApi.runtimeconfig.json
+C:\Users\ehala\Source\Repos\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.0\ToDoApi.runtimeconfig.dev.json
+C:\Users\ehala\Source\Repos\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.0\ToDoApi.dll
+C:\Users\ehala\Source\Repos\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.0\ToDoApi.pdb
+C:\Users\ehala\Source\Repos\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.0\ToDoApi.csprojResolveAssemblyReference.cache
+C:\Users\ehala\Source\Repos\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.0\ToDoApi.csproj.CoreCompileInputs.cache
+C:\Users\ehala\Source\Repos\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.0\ToDoApi.AssemblyInfoInputs.cache
+C:\Users\ehala\Source\Repos\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.0\ToDoApi.AssemblyInfo.cs
+C:\Users\ehala\Source\Repos\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.0\ToDoApi.dll
+C:\Users\ehala\Source\Repos\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.0\ToDoApi.pdb
